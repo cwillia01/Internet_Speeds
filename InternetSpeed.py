@@ -1,3 +1,10 @@
+#Author: Claire Williams
+#Date Created:25th Sept 2021
+#Last Updated: 26th Sept 2021
+
+#Purpose: Monitors internet upload and download speed each day, it is reccomended to use this in a scheduler
+
+
 import speedtest
 import datetime
 import openpyxl
